@@ -28,3 +28,5 @@ model.flow_calculate()
 model.save()
 
 ```
+
+For now, real values are only available for France, but you can easily modify the code to plot those of another country, if you know where to find them of course. 
