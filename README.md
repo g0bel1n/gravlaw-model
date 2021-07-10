@@ -13,6 +13,8 @@ Visualization of [this paper](https://arxiv.org/abs/0710.1274)
 
 ![plot](https://github.com/iSab01/gravlaw-model/blob/master/ressources/GravLawModel_France.png)
 
+In blue, we can see the actual average traffic per day. In black we have the estimated traffic. Please aknowledge the fact that the precise value is not the point of the simualtion. The goal is to examine **tendancies** to check if the model might be close to reality. Moreover, for visualization puroposes, the width of the black ligne is not proportionnal to the real flow, but to T[i,j]^(0,7). The purpose of such a non-linear transformation is to avoid having massive flows covering the image or the inverse, not seeing any small-medium flows.
+
 ## OnBoarding
 
 After making sure that your environnement check out the requirements, you can use the following commands :
