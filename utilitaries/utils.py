@@ -24,8 +24,8 @@ def extr(mat, nb_cntry=30):
 def extract(obj):
     url = None
     if obj == "tmja":
-        extract_dir = "tmja2018"
-        filename = "tmja2018"
+        extract_dir = "../tmja2018"
+        filename = "../tmja2018"
         if not os.path.isdir(extract_dir):
             url = "https://www.data.gouv.fr/fr/datasets/r/cf09b2c2-2500-4c1f-941f-83c9f17b95d8"
     else:
