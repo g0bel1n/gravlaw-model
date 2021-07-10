@@ -1,0 +1,1 @@
+[![Python application](https://github.com/iSab01/gravlaw-model/actions/workflows/python-app.yml/badge.svg)](https://github.com/iSab01/gravlaw-model/actions/workflows/python-app.yml)
