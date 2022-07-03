@@ -5,8 +5,8 @@
 
 Visualization of [this paper](https://arxiv.org/abs/0710.1274)
 
->**Abstract** : 
-*We investigate the traffic flows of the Korean highway system, which contains both public and private transportation information. We find that the traffic flow T(ij) between city i and j forms a gravity model, the metaphor of physical gravity as described in Newton's law of gravity, P(i)P(j)/r(ij)^2, where P(i) represents the population of city i and r(ij) the distance between cities i and j. It is also shown that the highway network has a heavy tail even though the road network is a rather uniform and homogeneous one. Compared to the highway network, air and public ground transportation establish inhomogeneous systems and have power-law behaviors.* by Woo-Sung Jung, Fengzhong Wang, H. Eugene Stanley
+**Abstract** : 
+We investigate the traffic flows of the Korean highway system, which contains both public and private transportation information. We find that the traffic flow $T_{i,j}$ between city $i$ and $j$ forms a gravity model, the metaphor of physical gravity as described in Newton's law of gravity, $$\frac{P(i)P(j)}{r_{ij}^2}$$, where $P(i)$ represents the population of city $i$ and $r_{ij}$ the distance between cities $i$ and $j$. It is also shown that the highway network has a heavy tail even though the road network is a rather uniform and homogeneous one. Compared to the highway network, air and public ground transportation establish inhomogeneous systems and have power-law behaviors. by Woo-Sung Jung, Fengzhong Wang, H. Eugene Stanley
 
 
 ## Demonstration
